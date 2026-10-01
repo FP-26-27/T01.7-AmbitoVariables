@@ -1,5 +1,8 @@
 # TEO-Ambito de variables y Paso de parámetros
 
+**Autora**: Toñi Reina
+
+
 ## Ejercicio 1: La Nave Espacial y sus Controles
 
 La nave Estrella Veloz tiene dos recursos globales:
